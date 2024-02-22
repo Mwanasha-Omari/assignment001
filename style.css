@@ -1,0 +1,22 @@
+#form{
+    
+    border-radius:10px ;
+    border :color grey;
+   border-collapse:collapse
+
+}
+
+.table tr, td,th{
+    border-style: solid;
+     border-radius:10px ;
+    border :color grey;
+   border-collapse:collapse
+   }
+
+
+
+
+
+
+
+
