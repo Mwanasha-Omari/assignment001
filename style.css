@@ -1,19 +1,31 @@
-#form{
+#container{
+    width: 50%;
+    margin:0 auto;
+    padding:12px;
+    border: solid black;
+    border-radius:2px;
+    border-width: 50%;
+    }
     
-    border-radius:10px ;
-    border :color grey;
-   border-collapse:collapse
+    button{
+    padding:6px 12px;
+    background:grey;
+    border: none;
+    }
+#form{
+    width: 50%;
+    margin:0 auto;
+    padding:12px;
+    border: solid black;
+    border-radius: 2px;
+    border-width: 50%;
+}
+table, th,td{
+border: solid 1px;
+border-collapse:collapse;
+padding: 12px;
 
 }
-
-.table tr, td,th{
-    border-style: solid;
-     border-radius:10px ;
-    border :color grey;
-   border-collapse:collapse
-   }
-
-
 
 
 
